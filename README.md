@@ -936,6 +936,13 @@ Thanks goes to these amazing people:
         </a>
     </td>
             <td align="center">
+        <a href="https://github.com/SmokeAlottaJ-afk">
+            <img src="https://avatars.githubusercontent.com/u/275190500?v=4" width="100" alt="SmokeAlottaJ-afk"/>
+            <br />
+            <sub><b>SmokeAlottaJ-afk</b></sub>
+        </a>
+    </td>
+            <td align="center">
         <a href="https://github.com/ShivaniNR">
             <img src="https://avatars.githubusercontent.com/u/47320667?v=4" width="100" alt="ShivaniNR"/>
             <br />
@@ -949,6 +956,8 @@ Thanks goes to these amazing people:
             <sub><b>0xDevNinja</b></sub>
         </a>
     </td>
+		</tr>
+		<tr>
             <td align="center">
         <a href="https://github.com/blut-agent">
             <img src="https://avatars.githubusercontent.com/u/278569635?v=4" width="100" alt="blut-agent"/>
@@ -956,8 +965,6 @@ Thanks goes to these amazing people:
             <sub><b>blut-agent</b></sub>
         </a>
     </td>
-		</tr>
-		<tr>
             <td align="center">
         <a href="https://github.com/Ghraven">
             <img src="https://avatars.githubusercontent.com/u/115199279?v=4" width="100" alt="Ghraven"/>
@@ -993,6 +1000,8 @@ Thanks goes to these amazing people:
             <sub><b>Piyushtiwari919</b></sub>
         </a>
     </td>
+		</tr>
+		<tr>
             <td align="center">
         <a href="https://github.com/hruico">
             <img src="https://avatars.githubusercontent.com/u/218068869?v=4" width="100" alt="hruico"/>
@@ -1000,8 +1009,6 @@ Thanks goes to these amazing people:
             <sub><b>hruico</b></sub>
         </a>
     </td>
-		</tr>
-		<tr>
             <td align="center">
         <a href="https://github.com/IBOCATA">
             <img src="https://avatars.githubusercontent.com/u/74919012?v=4" width="100" alt="IBOCATA"/>
@@ -1037,6 +1044,8 @@ Thanks goes to these amazing people:
             <sub><b>JustInCache</b></sub>
         </a>
     </td>
+		</tr>
+		<tr>
             <td align="center">
         <a href="https://github.com/Genmin">
             <img src="https://avatars.githubusercontent.com/u/90125084?v=4" width="100" alt="Genmin"/>
@@ -1044,8 +1053,6 @@ Thanks goes to these amazing people:
             <sub><b>Genmin</b></sub>
         </a>
     </td>
-		</tr>
-		<tr>
             <td align="center">
         <a href="https://github.com/WatchTree-19">
             <img src="https://avatars.githubusercontent.com/u/119982314?v=4" width="100" alt="WatchTree-19"/>
