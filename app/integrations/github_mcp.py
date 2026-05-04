@@ -36,6 +36,8 @@ def _import_github_mcp_dependencies():
             "Install it to use GitHub MCP functionality."
         ) from err
     return ClientSession, StdioServerParameters, types, sse_client, stdio_client
+
+
 from app.strict_config import StrictConfigModel
 
 DEFAULT_GITHUB_MCP_URL = "https://api.githubcopilot.com/mcp/"
@@ -428,7 +430,9 @@ def github_mcp_config_from_env() -> GitHubMCPConfig | None:
 async def _open_github_mcp_session(config: GitHubMCPConfig) -> AsyncIterator[ClientSession]:
     stack = AsyncExitStack()
     try:
-        ClientSession, StdioServerParameters, types, sse_client, stdio_client = _import_github_mcp_dependencies()
+        ClientSession, StdioServerParameters, types, sse_client, stdio_client = (
+            _import_github_mcp_dependencies()
+        )
 
         if config.mode == "stdio":
             if not config.command:
