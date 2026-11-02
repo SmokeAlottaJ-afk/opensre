@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">VideoCut</string>
+    <string name="app_description">Professional video editor with CapCut-like features</string>
+    
+    <!-- Main -->
+    <string name="new_project">New Project</string>
+    <string name="recent_projects">Recent Projects</string>
+    <string name="no_projects">No projects yet</string>
+    <string name="create_first_project">Create your first video project</string>
+    
+    <!-- Editor -->
+    <string name="timeline">Timeline</string>
+    <string name="clips">Clips</string>
+    <string name="effects">Effects</string>
+    <string name="text">Text</string>
+    <string name="audio">Audio</string>
+    <string name="stickers">Stickers</string>
+    <string name="filters">Filters</string>
+    <string name="transitions">Transitions</string>
+    <string name="export">Export</string>
+    <string name="save_draft">Save Draft</string>
+    
+    <!-- Actions -->
+    <string name="import_media">Import Media</string>
+    <string name="record_video">Record Video</string>
+    <string name="add_to_timeline">Add to Timeline</string>
+    <string name="delete">Delete</string>
+    <string name="duplicate">Duplicate</string>
+    <string name="split">Split</string>
+    <string name="trim">Trim</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    
+    <!-- Export -->
+    <string name="export_quality">Quality</string>
+    <string name="export_resolution">Resolution</string>
+    <string name="export_fps">Frame Rate</string>
+    <string name="export_bitrate">Bitrate</string>
+    <string name="export_format">Format</string>
+    <string name="export_1080p">1080p</string>
+    <string name="export_720p">720p</string>
+    <string name="export_480p">480p</string>
+    <string name="export_30fps">30 fps</string>
+    <string name="export_60fps">60 fps</string>
+    <string name="export_mp4">MP4</string>
+    <string name="export_mov">MOV</string>
+    <string name="export_start">Start Export</string>
+    <string name="export_progress">Exporting: %d%%</string>
+    <string name="export_complete">Export Complete!</string>
+    <string name="export_failed">Export Failed</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="video_settings">Video Settings</string>
+    <string name="default_resolution">Default Resolution</string>
+    <string name="default_fps">Default Frame Rate</string>
+    <string name="storage_settings">Storage</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="clear_cache_confirm">Clear all cached media files?</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    
+    <!-- Errors -->
+    <string name="error_no_media">No media selected</string>
+    <string name="error_no_permission">Permission denied</string>
+    <string name="error_storage_full">Storage is full</string>
+    <string name="error_unsupported_format">Unsupported media format</string>
+    <string name="error_export_failed">Export failed. Please try again.</string>
+    
+    <!-- Confirmations -->
+    <string name="confirm_delete_project">Delete this project? This cannot be undone.</string>
+    <string name="confirm_discard_changes">Discard unsaved changes?</string>
+    
+    <!-- General -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+</resources>
