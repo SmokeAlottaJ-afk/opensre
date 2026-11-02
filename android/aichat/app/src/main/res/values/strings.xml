@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">AI Chat</string>
+    <string name="app_description">Modern AI chat assistant with streaming responses</string>
+    
+    <!-- Chat Screen -->
+    <string name="hint_message">Type your message...</string>
+    <string name="send_button">Send</string>
+    <string name="new_chat">New Chat</string>
+    <string name="chat_placeholder">Start a new conversation</string>
+    <string name="chat_empty_state">No messages yet. Start chatting!</string>
+    
+    <!-- Conversations Screen -->
+    <string name="conversations_title">Conversations</string>
+    <string name="no_conversations">No conversations yet</string>
+    <string name="delete_conversation">Delete</string>
+    <string name="confirm_delete">Are you sure you want to delete this conversation?</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings</string>
+    <string name="api_settings">API Settings</string>
+    <string name="api_endpoint_hint">OpenAI-compatible endpoint</string>
+    <string name="api_key_hint">API Key</string>
+    <string name="model_settings">Model</string>
+    <string name="model_hint">Select AI model</string>
+    <string name="appearance">Appearance</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="save">Save</string>
+    <string name="clear_history">Clear All History</string>
+    <string name="clear_history_confirm">Delete all conversations? This cannot be undone.</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="build">Build</string>
+    
+    <!-- Errors -->
+    <string name="error_network">No network connection</string>
+    <string name="error_invalid_api_key">Invalid API key</string>
+    <string name="error_empty_message">Message cannot be empty</string>
+    <string name="error_unknown">Something went wrong. Please try again.</string>
+    <string name="error_rate_limit">Rate limit exceeded. Please try again later.</string>
+    
+    <!-- Actions -->
+    <string name="retry">Retry</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    
+    <!-- Models -->
+    <string name="model_gpt4">GPT-4</string>
+    <string name="model_gpt35">GPT-3.5 Turbo</string>
+    <string name="model_claude3">Claude 3</string>
+    <string name="model_llama3">Llama 3</string>
+    <string name="model_mistral">Mistral</string>
+    <string name="model_gemini">Gemini</string>
+</resources>

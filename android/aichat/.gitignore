@@ -1,0 +1,74 @@
+# Android
+*.iml
+.idea/
+
+# Gradle
+build/
+*.gradle
+.gradle/
+
+# Local properties
+local.properties
+
+# Keystores
+*.jks
+*.keystore
+
+# Signing
+signing/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Version control
+.vcs/
+
+# Test results
+*/test-results/
+
+# Debug
+*/debug/
+
+# Generated files
+*.apk
+*.aab
+*.aar
+
+# Environment
+.env
+.env.local
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# Kotlin
+*.kotlin_module
+
+# Navigation
+navigation/
+
+# Dagger
+**/Dagger*.java
+**/*_MembersInjector.java
+**/Hilt_*.java
+**/Hilt*.java
+
+# Room
+**/*_Impl.java
+**/*Dao_Impl.java
+**/*Database_Impl.java
+
+# Data binding
+**/BR.java
+**/DataBinderMapperImpl.java
+
+# View binding
+**/*Binding.java
